@@ -18,6 +18,7 @@ public class Week2Tuesday {
        System.out.println("learn github");
        System.out.println("second message"); 
         System.out.println("learn github");
+        System.out.println("learn github");
     }
     
 }
